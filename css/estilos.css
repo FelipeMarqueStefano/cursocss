@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/bokeh-branco-bonito-no-fundo-azul_102644-53.jpg');
+    background-size: auto 936px;
+    font-family: OCR A;
+    height: 100vh;
+  }
+  
+.menu {
+    background-color: DarkSeaGreen;
+  }
+  
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+.menu li {
+    list-style: none;
+  }
+  
+a {
+    font-family: Arial;
+    text-decoration: none;
+    color: MediumSlateBlue;
+  }
+  
+a:hover {
+    text-decoration: underline;
+  }
+  
+.site-subtitle,
+.site-title {
+    color: blacksmoke;
+    text-align: center;
+  }
+  
+.site-subtitle {
+    font-style: italic;
+  }
